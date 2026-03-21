@@ -1,6 +1,6 @@
 # Hey, I'm Nate
 
-Game developer, graphics programmer, and current Software Engineer.
+Game developer, graphics programmer, and current software engineer.
 
 I like building things from scratch — game engines, renderers, operating systems, and whatever else sounds fun.
 
