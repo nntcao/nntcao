@@ -1,6 +1,6 @@
 # Hey, I'm Nate
 
-Game developer, graphics programmer, and CS student at the University of Houston.
+Game developer, graphics programmer, and current Software Engineer.
 
 I like building things from scratch — game engines, renderers, operating systems, and whatever else sounds fun.
 
