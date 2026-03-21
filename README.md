@@ -7,8 +7,9 @@ I like building things — game engines, renderers, operating systems, and whate
 ## What I'm Working On
 
 - **Parole Denied** — a game built in Unity
+- Experimenting with AI (Claude Code, Cursor)
+- Two SaaS webapps: (Spool, ResellerAI)
 - **Game engine** and **graphics programming** projects (OpenGL, Vulkan, ray tracing)
-- Various experiments in AI, web apps, and systems programming
 
 ## Tech Stack
 
