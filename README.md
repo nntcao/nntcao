@@ -1,8 +1,6 @@
-# Hey, I'm Nate
+# Hiya, I'm Nathan
 
-Game developer, graphics programmer, and current software engineer.
-
-I like building things — game engines, renderers, operating systems, and whatever else sounds fun.
+Game developer and software engineer. I like building things.
 
 ## What I'm Working On
 
@@ -35,16 +33,6 @@ I like building things — game engines, renderers, operating systems, and whate
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nntcao&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/nntcao)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nntcao&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/nntcao)
-
-</div>
 
 ## Find Me
 
