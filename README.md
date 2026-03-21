@@ -47,5 +47,6 @@ I like building things from scratch — game engines, renderers, operating syste
 
 ## Find Me
 
+[![LinkedIn](https://img.shields.io/badge/-nntcao-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nntcao/)
 [![Twitter](https://img.shields.io/badge/-@nntcao-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nntcao)
 [![GitHub](https://img.shields.io/badge/-nntcao-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nntcao)
