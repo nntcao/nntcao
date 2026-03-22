@@ -7,7 +7,7 @@ Game developer and software engineer. I like building things.
 - **Parole Denied** — a game built in Unity
 - Two SaaS webapps: **Spool**, **ResellerAI**
 - **Game engine** and **graphics programming** projects (OpenGL, Vulkan, ray tracing)
-- Experimenting with AI (Claude Code, Cursor)
+- Experimenting with AI (Claude Code, Cursor, OpenClaw)
 
 ## Tech Stack
 
